@@ -13,7 +13,7 @@ struct ContentView: View {
         VStack {
             Image(/*@START_MENU_TOKEN@*/ /*@PLACEHOLDER=Image Name@*/"Image Name"/*@END_MENU_TOKEN@*/)
             Text("Hello, Wordddddld!")
-            Text("Nuevo Mensaje")
+            Text("Nuevo Mensaje2")
         }
     }
 }
